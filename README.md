@@ -59,7 +59,7 @@ These are development and validation environments, not minimum or recommended sy
 - I am open about where I use AI
 - I try to include source code, testing steps, and known limitations
 - I treat “it launches” and “it works properly in gameplay” as two different things
-- I do not redistribute original game data or copyrighted content belonging to others
+- I avoid redistributing game data and third-party resources wherever possible. When a resource is essential for a mod to work and a practical alternative is unavailable, I include only what is necessary and document its origin.
 
 Bug reports are welcome in English or Japanese. Reproducible steps and relevant logs are especially helpful.
 
@@ -120,7 +120,7 @@ Bug reports are welcome in English or Japanese. Reproducible steps and relevant 
 - AIの利用箇所を隠さない
 - ソース、検証手順、既知の制限をできるだけ残す
 - 「起動した」と「正常に遊べた」を分けて考える
-- ゲーム本体のデータや権利者のコンテンツを再配布しない
+- ゲームデータや第三者のリソースの再配布は可能な限り避ける。MODの動作にどうしても必要で、現実的な代替手段がないものは、必要な範囲だけ同梱し、出典を明記する
 
 不具合報告は日本語・英語のどちらでも歓迎します。再現手順と関連ログがあると助かります。
 
