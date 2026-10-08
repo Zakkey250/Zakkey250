@@ -129,3 +129,9 @@ Bug reports are welcome in English or Japanese. Reproducible steps and relevant 
 - [Website](https://zklb.org/)
 - [YouTube](https://www.youtube.com/@NFS_Zakkey)
 - [X](https://x.com/Reven76_ZKJP)
+
+## License
+
+This profile README is licensed under [Creative Commons Attribution 4.0 International](LICENSE).
+
+このプロフィールREADMEは[Creative Commons Attribution 4.0 International](LICENSE)で公開しています。
