@@ -25,6 +25,7 @@ I build things, see whether they work, and fix them when they break.
 
 | Project | Description | Main language |
 | --- | --- | --- |
+| [MW Event Loader](https://github.com/Zakkey250/MW-Event-Loader) | Loads browser-created custom races with NeoAI support and Arms Race, Gauntlet, and Hot Pursuit modes | C++ |
 | [MW Native Free Roam Racer](https://github.com/Zakkey250/MW-NativeFreeRoamRacer) | Adds free-roaming AI racers and encounter battles | C++ |
 | [MW ActionNitro](https://github.com/Zakkey250/MW-ActionNitro) | Rewards driving actions with nitrous recovery and a multilingual reward HUD | C++ |
 | [MW Arcade Drift](https://github.com/Zakkey250/MW-Arcade-Drift) | Adds brake-initiated arcade drifting, a drift camera, a slip HUD, and per-car profiles | C++ |
@@ -86,6 +87,7 @@ Bug reports are welcome in English or Japanese. Reproducible steps and relevant 
 
 | プロジェクト | 内容 | 主な言語 |
 | --- | --- | --- |
+| [MW Event Loader](https://github.com/Zakkey250/MW-Event-Loader) | ブラウザで作成したカスタムレースを読み込み、NeoAI、Arms Race、Gauntlet、Hot Pursuitモードに対応 | C++ |
 | [MW Native Free Roam Racer](https://github.com/Zakkey250/MW-NativeFreeRoamRacer) | フリー走行するAIレーサーとエンカウンターバトルを追加 | C++ |
 | [MW ActionNitro](https://github.com/Zakkey250/MW-ActionNitro) | ドライビングアクションに応じてNOSを回復し、多言語リワードHUDを表示 | C++ |
 | [MW Arcade Drift](https://github.com/Zakkey250/MW-Arcade-Drift) | ブレーキ始動のアーケードドリフト、ドリフトカメラ、スリップHUD、車種別プロファイルを追加 | C++ |
