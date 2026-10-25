@@ -26,6 +26,7 @@ I build things, see whether they work, and fix them when they break.
 | Project | Description | Main language |
 | --- | --- | --- |
 | [MW Event Loader](https://github.com/Zakkey250/MW-Event-Loader) | Loads browser-created custom races with NeoAI support and Arms Race, Gauntlet, and Hot Pursuit modes | C++ |
+| [MW Event Editor](https://zakkey250.github.io/MW-Event-Editor/) | A browser-based editor for creating and editing custom race events for stock Rockport and W2C worlds | JavaScript |
 | [MW Native Free Roam Racer](https://github.com/Zakkey250/MW-NativeFreeRoamRacer) | Adds free-roaming AI racers and encounter battles | C++ |
 | [MW ActionNitro](https://github.com/Zakkey250/MW-ActionNitro) | Rewards driving actions with nitrous recovery and a multilingual reward HUD | C++ |
 | [MW Arcade Drift](https://github.com/Zakkey250/MW-Arcade-Drift) | Adds brake-initiated arcade drifting, a drift camera, a slip HUD, and per-car profiles | C++ |
@@ -38,7 +39,6 @@ I build things, see whether they work, and fix them when they break.
 | --- | --- | --- |
 | [MW Limit Breaker](https://github.com/Zakkey250/MW-Limit-breaker) | A script mod intended to expand vehicle-spawning limits in *Need for Speed: Most Wanted (2005)* | Early development |
 | W2C to MW Converter | Converts mods made for *Need for Speed: Carbon* so that environments from *Need for Speed: World* can be applied to MW | In development |
-| MW Event Editor | A web app for editing race events, initially being developed for W2C; support for the vanilla MW world is planned | In development |
 
 #### Other games
 
@@ -88,6 +88,7 @@ Bug reports are welcome in English or Japanese. Reproducible steps and relevant 
 | プロジェクト | 内容 | 主な言語 |
 | --- | --- | --- |
 | [MW Event Loader](https://github.com/Zakkey250/MW-Event-Loader) | ブラウザで作成したカスタムレースを読み込み、NeoAI、Arms Race、Gauntlet、Hot Pursuitモードに対応 | C++ |
+| [MW Event Editor](https://zakkey250.github.io/MW-Event-Editor/) | 純正RockportとW2Cワールドのカスタムレースを作成・編集できるブラウザベースのエディター | JavaScript |
 | [MW Native Free Roam Racer](https://github.com/Zakkey250/MW-NativeFreeRoamRacer) | フリー走行するAIレーサーとエンカウンターバトルを追加 | C++ |
 | [MW ActionNitro](https://github.com/Zakkey250/MW-ActionNitro) | ドライビングアクションに応じてNOSを回復し、多言語リワードHUDを表示 | C++ |
 | [MW Arcade Drift](https://github.com/Zakkey250/MW-Arcade-Drift) | ブレーキ始動のアーケードドリフト、ドリフトカメラ、スリップHUD、車種別プロファイルを追加 | C++ |
@@ -100,7 +101,6 @@ Bug reports are welcome in English or Japanese. Reproducible steps and relevant 
 | --- | --- | --- |
 | [MW Limit Breaker](https://github.com/Zakkey250/MW-Limit-breaker) | *Need for Speed: Most Wanted (2005)* の車両生成に関する制限の拡張を目指すスクリプトMOD | 準備中 |
 | W2C to MW Converter | *Need for Speed: Carbon* 用MODを変換し、*Need for Speed: World* の環境をMWへ適用できるようにするMOD | 開発中 |
-| MW Event Editor | レースイベントを編集するWebアプリ。W2C用として開発中で、バニラMWワールドへの対応も予定 | 開発中 |
 
 #### その他のゲーム
 
